@@ -3,7 +3,7 @@ import java.lang.* ;
 
 /* we can Add the empty for loop in the program to run it for an infinite number of times
 but a proper buffer/exit statement should be provided a different program Switch V2 contains all the
-changes dont forget to check that out
+changes dont forget to check that out SWITCHV2
  */
 class Switch {
     public static void main(String[] args) {
@@ -35,3 +35,4 @@ class Switch {
         }
     }
 }
+
